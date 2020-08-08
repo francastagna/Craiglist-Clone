@@ -1,4 +1,4 @@
-# In this project, I made a good looking craiglist clone.
+# Good looking Craiglist clone!
 ## I used Django for the backend and html,css and materialize for the frontend.
 ## Also used another python librarys like Beautiful Soup and Requests for the web scrapping.
 ## The website was hosted on Heroku.
